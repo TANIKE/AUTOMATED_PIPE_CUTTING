@@ -1,2 +1,2 @@
-# ESP32-FlyingSaw
-Implement the Flying Saw solution using an ESP32 to enhance precision and reduce material cutting time.
+# ESP32-AUTOMATED PIPE-CUTTING 
+Automated pipe-cutting system with the length, quantity, and speed of the process entered by the user. The special feature of the system is that the cutting (saw) unit will be moved flexibly, which will be controlled to move synchronously with the movement of the incoming material. The application of synchronous control to the saw system improves the working time of the system while still meeting the required accuracy.
